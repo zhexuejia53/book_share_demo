@@ -1,0 +1,13 @@
+pymysql
+django==2.1.1
+django-appconf==1.0.2
+django-haystack==2.8.1
+django-imagekit==4.0.2
+django-js-asset==1.1.0
+django-mptt==0.9.1
+jieba==0.39
+pilkit==2.0
+Pillow==5.2.0
+pytz==2018.5
+six==1.11.0
+Whoosh==2.7.4
